@@ -1,0 +1,662 @@
+[
+ {
+  "id": "account-executive",
+  "term": "Account Executive (AE)",
+  "definition": "An account executive (AE) is the seller who runs qualified deals from discovery to signed contract. Learn what an AE does and how it differs from SDRs.",
+  "url": "https://www.onegtmlab.dev/glossary/account-executive"
+ },
+ {
+  "id": "account-based-marketing",
+  "term": "Account-Based Marketing (ABM)",
+  "definition": "Account-based marketing (ABM) targets a defined list of high-value companies with coordinated sales and marketing. Learn how ABM works in B2B.",
+  "url": "https://www.onegtmlab.dev/glossary/account-based-marketing"
+ },
+ {
+  "id": "agentic-workflow",
+  "term": "Agentic Workflow",
+  "definition": "An agentic workflow is a multi-step process where AI agents plan, use tools and make decisions within defined steps. Learn how it differs from automation.",
+  "url": "https://www.onegtmlab.dev/glossary/agentic-workflow"
+ },
+ {
+  "id": "ai-agent",
+  "term": "AI Agent",
+  "definition": "An AI agent is software built on a language model that plans steps and uses tools to complete a goal. Learn how AI agents are used in sales and marketing.",
+  "url": "https://www.onegtmlab.dev/glossary/ai-agent"
+ },
+ {
+  "id": "ai-sales-agent",
+  "term": "AI Sales Agent",
+  "definition": "An AI sales agent is AI software that carries out sales tasks such as research, outreach and follow-up with some autonomy. Learn what they do and their limits.",
+  "url": "https://www.onegtmlab.dev/glossary/ai-sales-agent"
+ },
+ {
+  "id": "ai-sdr",
+  "term": "AI SDR",
+  "definition": "An AI SDR is software that uses AI to research prospects, write outreach and handle replies. Learn what AI SDRs do and how they differ from a sequencer.",
+  "url": "https://www.onegtmlab.dev/glossary/ai-sdr"
+ },
+ {
+  "id": "annual-recurring-revenue",
+  "term": "Annual Recurring Revenue (ARR)",
+  "definition": "Annual recurring revenue (ARR) is the yearly value of a company's subscription contracts. Learn how ARR is calculated and how it differs from revenue.",
+  "url": "https://www.onegtmlab.dev/glossary/annual-recurring-revenue"
+ },
+ {
+  "id": "attribution-model",
+  "term": "Attribution Model",
+  "definition": "An attribution model is the rule for giving credit for a conversion to the touchpoints before it. Learn first-touch, last-touch and multi-touch models.",
+  "url": "https://www.onegtmlab.dev/glossary/attribution-model"
+ },
+ {
+  "id": "average-contract-value",
+  "term": "Average Contract Value (ACV)",
+  "definition": "Average contract value (ACV) is the typical yearly value of a customer contract. Learn how ACV is calculated and why it shapes a go-to-market motion.",
+  "url": "https://www.onegtmlab.dev/glossary/average-contract-value"
+ },
+ {
+  "id": "b2b-saas",
+  "term": "B2B SaaS",
+  "definition": "B2B SaaS is software sold to businesses as a subscription and delivered over the internet. Learn how the B2B SaaS model works and what it measures.",
+  "url": "https://www.onegtmlab.dev/glossary/b2b-saas"
+ },
+ {
+  "id": "backlinks",
+  "term": "Backlinks",
+  "definition": "Backlinks are links from other websites to yours. Learn why backlinks matter for SEO, what makes a good one and how dofollow and nofollow links differ.",
+  "url": "https://www.onegtmlab.dev/glossary/backlinks"
+ },
+ {
+  "id": "bottom-of-funnel",
+  "term": "Bottom of Funnel (BOFU)",
+  "definition": "Bottom of funnel (BOFU) is the decision stage, where buyers choose a vendor. Learn what BOFU content looks like and why it converts best.",
+  "url": "https://www.onegtmlab.dev/glossary/bottom-of-funnel"
+ },
+ {
+  "id": "bounce-rate",
+  "term": "Bounce Rate",
+  "definition": "Bounce rate is the share of website sessions that leave without engaging further. Learn how it is measured and how it differs from email bounce rate.",
+  "url": "https://www.onegtmlab.dev/glossary/bounce-rate"
+ },
+ {
+  "id": "business-development-representative",
+  "term": "Business Development Representative (BDR)",
+  "definition": "A business development representative (BDR) prospects new accounts through outbound outreach and books sales meetings. Learn how a BDR differs from an SDR.",
+  "url": "https://www.onegtmlab.dev/glossary/business-development-representative"
+ },
+ {
+  "id": "buyer-persona",
+  "term": "Buyer Persona",
+  "definition": "A buyer persona is a profile of the person who buys or influences a purchase. Learn how B2B buyer personas differ from an ICP and how they shape outreach.",
+  "url": "https://www.onegtmlab.dev/glossary/buyer-persona"
+ },
+ {
+  "id": "buying-signals",
+  "term": "Buying Signals",
+  "definition": "Buying signals are events and behaviors that suggest a company may need a product soon, such as funding or hiring. Learn how B2B teams use buying signals.",
+  "url": "https://www.onegtmlab.dev/glossary/buying-signals"
+ },
+ {
+  "id": "channel-partner",
+  "term": "Channel Partner",
+  "definition": "A channel partner is a company that sells, resells or recommends another company's product to its own customers. Learn the main partner types.",
+  "url": "https://www.onegtmlab.dev/glossary/channel-partner"
+ },
+ {
+  "id": "churn-rate",
+  "term": "Churn Rate",
+  "definition": "Churn rate is the share of customers or revenue lost in a period. Learn how customer churn and revenue churn are calculated and why they differ.",
+  "url": "https://www.onegtmlab.dev/glossary/churn-rate"
+ },
+ {
+  "id": "cold-calling",
+  "term": "Cold Calling",
+  "definition": "Cold calling is phoning a potential buyer who has had no prior contact with the seller. Learn how B2B cold calling works and where it fits in outbound.",
+  "url": "https://www.onegtmlab.dev/glossary/cold-calling"
+ },
+ {
+  "id": "cold-email",
+  "term": "Cold Email",
+  "definition": "Cold email is a first, unsolicited email sent to a potential buyer with no prior relationship. Learn how B2B cold email works and what it depends on.",
+  "url": "https://www.onegtmlab.dev/glossary/cold-email"
+ },
+ {
+  "id": "competitive-intelligence",
+  "term": "Competitive Intelligence",
+  "definition": "Competitive intelligence is gathering and analyzing public information about competitors to make better decisions. Learn how sales and marketing use it.",
+  "url": "https://www.onegtmlab.dev/glossary/competitive-intelligence"
+ },
+ {
+  "id": "content-marketing",
+  "term": "Content Marketing",
+  "definition": "Content marketing is creating useful content that attracts and keeps a defined audience. Learn how B2B content marketing works and how it is measured.",
+  "url": "https://www.onegtmlab.dev/glossary/content-marketing"
+ },
+ {
+  "id": "context-engineering",
+  "term": "Context Engineering",
+  "definition": "Context engineering is designing everything a language model sees: instructions, examples, data, tool output and memory. Learn how it differs from prompts.",
+  "url": "https://www.onegtmlab.dev/glossary/context-engineering"
+ },
+ {
+  "id": "conversion-rate",
+  "term": "Conversion Rate",
+  "definition": "Conversion rate is the share of visitors or leads who complete a desired action. Learn the formula and how B2B teams use it across the funnel.",
+  "url": "https://www.onegtmlab.dev/glossary/conversion-rate"
+ },
+ {
+  "id": "conversion-rate-optimization",
+  "term": "Conversion Rate Optimization (CRO)",
+  "definition": "Conversion rate optimization (CRO) is the practice of raising the share of visitors who take a desired action. Learn how CRO testing works.",
+  "url": "https://www.onegtmlab.dev/glossary/conversion-rate-optimization"
+ },
+ {
+  "id": "glossary-crm",
+  "term": "CRM (Customer Relationship Management)",
+  "definition": "A CRM is the system where a company records its contacts, accounts, deals and every sales and marketing interaction. Learn what a CRM does in B2B.",
+  "url": "https://www.onegtmlab.dev/glossary/crm"
+ },
+ {
+  "id": "customer-acquisition-cost",
+  "term": "Customer Acquisition Cost (CAC)",
+  "definition": "Customer acquisition cost (CAC) is the total sales and marketing spend needed to win one new customer. Learn the CAC formula and how B2B teams use it.",
+  "url": "https://www.onegtmlab.dev/glossary/customer-acquisition-cost"
+ },
+ {
+  "id": "customer-lifetime-value",
+  "term": "Customer Lifetime Value (CLV)",
+  "definition": "Customer lifetime value (CLV or LTV) is the total value a customer brings over their relationship with a company. Learn how CLV is calculated and used.",
+  "url": "https://www.onegtmlab.dev/glossary/customer-lifetime-value"
+ },
+ {
+  "id": "data-enrichment",
+  "term": "Data Enrichment",
+  "definition": "Data enrichment adds missing details such as emails, titles and company size to your records from external sources. Learn how B2B data enrichment works.",
+  "url": "https://www.onegtmlab.dev/glossary/data-enrichment"
+ },
+ {
+  "id": "data-hygiene",
+  "term": "Data Hygiene",
+  "definition": "Data hygiene is keeping CRM and marketing data accurate, complete and free of duplicates. Learn why B2B data decays and how teams keep it clean.",
+  "url": "https://www.onegtmlab.dev/glossary/data-hygiene"
+ },
+ {
+  "id": "deduplication",
+  "term": "Deduplication (Dedupe)",
+  "definition": "Deduplication (dedupe) finds records that describe the same person or company and merges them. Learn how dedupe works in CRM data and list building.",
+  "url": "https://www.onegtmlab.dev/glossary/deduplication"
+ },
+ {
+  "id": "demand-generation",
+  "term": "Demand Generation",
+  "definition": "Demand generation builds awareness and interest in a target market before buyers are ready to buy. Learn how it differs from lead generation.",
+  "url": "https://www.onegtmlab.dev/glossary/demand-generation"
+ },
+ {
+  "id": "discovery-call",
+  "term": "Discovery Call",
+  "definition": "A discovery call is an early sales conversation to understand a prospect's situation, problems and buying process. Learn what a discovery call covers.",
+  "url": "https://www.onegtmlab.dev/glossary/discovery-call"
+ },
+ {
+  "id": "dkim",
+  "term": "DKIM",
+  "definition": "DKIM (DomainKeys Identified Mail) adds a cryptographic signature to outgoing email so receivers can verify the sending domain. Learn how DKIM works.",
+  "url": "https://www.onegtmlab.dev/glossary/dkim"
+ },
+ {
+  "id": "dmarc",
+  "term": "DMARC",
+  "definition": "DMARC is an email authentication policy that tells receiving servers how to handle mail failing SPF or DKIM checks. Learn how DMARC protects a domain.",
+  "url": "https://www.onegtmlab.dev/glossary/dmarc"
+ },
+ {
+  "id": "domain-authority",
+  "term": "Domain Authority",
+  "definition": "Domain authority is a third-party score that estimates how well a website may rank based on its links. Learn what it measures and its limits.",
+  "url": "https://www.onegtmlab.dev/glossary/domain-authority"
+ },
+ {
+  "id": "email-bounce",
+  "term": "Email Bounce",
+  "definition": "An email bounce is a message that could not be delivered and was returned. Learn the difference between hard and soft bounces and why bounce rate matters.",
+  "url": "https://www.onegtmlab.dev/glossary/email-bounce"
+ },
+ {
+  "id": "email-deliverability",
+  "term": "Email Deliverability",
+  "definition": "Email deliverability is whether your email reaches the inbox instead of spam. Learn how authentication and sender reputation affect cold email.",
+  "url": "https://www.onegtmlab.dev/glossary/email-deliverability"
+ },
+ {
+  "id": "email-finder",
+  "term": "Email Finder",
+  "definition": "An email finder is a tool that finds a person's likely work email from their name and company. Learn how email finders work and why verification matters.",
+  "url": "https://www.onegtmlab.dev/glossary/email-finder"
+ },
+ {
+  "id": "email-verification",
+  "term": "Email Verification",
+  "definition": "Email verification checks whether an address exists and can receive mail before you send to it. Learn how email verification protects deliverability.",
+  "url": "https://www.onegtmlab.dev/glossary/email-verification"
+ },
+ {
+  "id": "email-warmup",
+  "term": "Email Warmup",
+  "definition": "Email warmup is the practice of gradually raising sending volume from a new mailbox or domain to build sender reputation for cold email.",
+  "url": "https://www.onegtmlab.dev/glossary/email-warmup"
+ },
+ {
+  "id": "firmographics",
+  "term": "Firmographics",
+  "definition": "Firmographics are company attributes such as industry, headcount, revenue and location. Learn how B2B teams use firmographic data to segment accounts.",
+  "url": "https://www.onegtmlab.dev/glossary/firmographics"
+ },
+ {
+  "id": "first-party-data",
+  "term": "First-Party Data",
+  "definition": "First-party data is information a company collects directly from its own audience and customers. Learn how it differs from second- and third-party data.",
+  "url": "https://www.onegtmlab.dev/glossary/first-party-data"
+ },
+ {
+  "id": "generative-engine-optimization",
+  "term": "Generative Engine Optimization (GEO)",
+  "definition": "Generative engine optimization (GEO) is shaping content so AI search tools and assistants cite it in their answers. Learn how GEO differs from SEO.",
+  "url": "https://www.onegtmlab.dev/glossary/generative-engine-optimization"
+ },
+ {
+  "id": "go-to-market",
+  "term": "Go-to-Market (GTM)",
+  "definition": "Go-to-market (GTM) is the plan for how a company reaches buyers, sells to them and wins customers. Learn the parts of a B2B GTM strategy and motion.",
+  "url": "https://www.onegtmlab.dev/glossary/go-to-market"
+ },
+ {
+  "id": "gtm-engineering",
+  "term": "GTM Engineering",
+  "definition": "GTM engineering is building automated go-to-market systems with code, APIs and AI: data, enrichment, signals, outreach and CRM sync. Learn what it covers.",
+  "url": "https://www.onegtmlab.dev/glossary/gtm-engineering"
+ },
+ {
+  "id": "hyper-personalization",
+  "term": "Hyper-Personalization",
+  "definition": "Hyper-personalization is tailoring each message to the individual recipient using specific research. Learn how it differs from basic personalization.",
+  "url": "https://www.onegtmlab.dev/glossary/hyper-personalization"
+ },
+ {
+  "id": "ideal-customer-profile",
+  "term": "Ideal Customer Profile (ICP)",
+  "definition": "An ideal customer profile (ICP) describes the companies that get the most from your product. Learn how to build one and how it differs from a persona.",
+  "url": "https://www.onegtmlab.dev/glossary/ideal-customer-profile"
+ },
+ {
+  "id": "inbound-lead",
+  "term": "Inbound Lead",
+  "definition": "An inbound lead is a potential buyer who contacts a company or shares details on their own initiative. Learn how inbound leads differ from outbound.",
+  "url": "https://www.onegtmlab.dev/glossary/inbound-lead"
+ },
+ {
+  "id": "intent-data",
+  "term": "Intent Data",
+  "definition": "Intent data shows which companies are researching a topic and may be moving toward a purchase. Learn first, second and third-party intent.",
+  "url": "https://www.onegtmlab.dev/glossary/intent-data"
+ },
+ {
+  "id": "keyword-research",
+  "term": "Keyword Research",
+  "definition": "Keyword research is finding the words buyers type into search engines and judging which ones to target. Learn how it works for B2B content and SEO.",
+  "url": "https://www.onegtmlab.dev/glossary/keyword-research"
+ },
+ {
+  "id": "landing-page",
+  "term": "Landing Page",
+  "definition": "A landing page is a web page built for one campaign and one action, such as a demo request. Learn how landing pages differ from home pages.",
+  "url": "https://www.onegtmlab.dev/glossary/landing-page"
+ },
+ {
+  "id": "large-language-model",
+  "term": "Large Language Model (LLM)",
+  "definition": "A large language model (LLM) is an AI model trained on large amounts of text to understand and generate language. Learn how LLMs are used in GTM.",
+  "url": "https://www.onegtmlab.dev/glossary/large-language-model"
+ },
+ {
+  "id": "lead-generation",
+  "term": "Lead Generation",
+  "definition": "Lead generation is the process of finding and attracting potential buyers and capturing their contact details. Learn how B2B lead generation works.",
+  "url": "https://www.onegtmlab.dev/glossary/lead-generation"
+ },
+ {
+  "id": "lead-magnet",
+  "term": "Lead Magnet",
+  "definition": "A lead magnet is a free resource offered in exchange for contact details. Learn how B2B teams use lead magnets on LinkedIn and websites to capture leads.",
+  "url": "https://www.onegtmlab.dev/glossary/lead-magnet"
+ },
+ {
+  "id": "lead-nurturing",
+  "term": "Lead Nurturing",
+  "definition": "Lead nurturing is building a relationship with leads who are not ready to buy yet. Learn how B2B nurture sequences work and what they contain.",
+  "url": "https://www.onegtmlab.dev/glossary/lead-nurturing"
+ },
+ {
+  "id": "lead-qualification",
+  "term": "Lead Qualification",
+  "definition": "Lead qualification is deciding whether a lead is worth pursuing, based on fit, need and timing. Learn common criteria and frameworks such as BANT.",
+  "url": "https://www.onegtmlab.dev/glossary/lead-qualification"
+ },
+ {
+  "id": "lead-scoring",
+  "term": "Lead Scoring",
+  "definition": "Lead scoring ranks leads by fit and engagement so sales works the best ones first. Learn how fit and behavior scores work and how lead scoring sets MQLs.",
+  "url": "https://www.onegtmlab.dev/glossary/lead-scoring"
+ },
+ {
+  "id": "linkedin-ads",
+  "term": "LinkedIn Ads",
+  "definition": "LinkedIn Ads are paid placements on LinkedIn targeted by job, company and audience data. Learn the main ad formats and how B2B teams use them.",
+  "url": "https://www.onegtmlab.dev/glossary/linkedin-ads"
+ },
+ {
+  "id": "linkedin-inmail",
+  "term": "LinkedIn InMail",
+  "definition": "LinkedIn InMail lets you message LinkedIn members you are not connected with, using credits from a premium plan. Learn how InMail works in B2B outreach.",
+  "url": "https://www.onegtmlab.dev/glossary/linkedin-inmail"
+ },
+ {
+  "id": "linkedin-sales-navigator",
+  "term": "LinkedIn Sales Navigator",
+  "definition": "LinkedIn Sales Navigator is LinkedIn's paid tool for sales prospecting, with advanced search, lead lists and alerts. Learn what it is used for.",
+  "url": "https://www.onegtmlab.dev/glossary/linkedin-sales-navigator"
+ },
+ {
+  "id": "linkedin-thought-leader-ads",
+  "term": "LinkedIn Thought Leader Ads",
+  "definition": "LinkedIn Thought Leader Ads let a company promote posts written by its people as paid ads. Learn how they work and why B2B teams use them.",
+  "url": "https://www.onegtmlab.dev/glossary/linkedin-thought-leader-ads"
+ },
+ {
+  "id": "llms-txt",
+  "term": "llms.txt",
+  "definition": "llms.txt is a proposed Markdown file at a website's root that gives AI agents a short overview and links to key content. Learn the format and its purpose.",
+  "url": "https://www.onegtmlab.dev/glossary/llms-txt"
+ },
+ {
+  "id": "long-tail-keywords",
+  "term": "Long-Tail Keywords",
+  "definition": "Long-tail keywords are longer, more specific search phrases with lower volume and clearer intent. Learn why B2B teams target them and how to find them.",
+  "url": "https://www.onegtmlab.dev/glossary/long-tail-keywords"
+ },
+ {
+  "id": "lookalike-audience",
+  "term": "Lookalike Audience",
+  "definition": "A lookalike audience is a group an ad platform builds to resemble a seed list, such as current customers. Learn how B2B teams use lookalikes.",
+  "url": "https://www.onegtmlab.dev/glossary/lookalike-audience"
+ },
+ {
+  "id": "marketing-automation",
+  "term": "Marketing Automation",
+  "definition": "Marketing automation is software that runs repetitive marketing tasks such as emails, lead scoring and routing on rules. Learn how B2B teams use it.",
+  "url": "https://www.onegtmlab.dev/glossary/marketing-automation"
+ },
+ {
+  "id": "marketing-qualified-lead",
+  "term": "Marketing Qualified Lead (MQL)",
+  "definition": "A marketing qualified lead (MQL) is a lead that meets marketing's fit and engagement criteria and is ready for sales. Learn how MQLs differ from SQLs.",
+  "url": "https://www.onegtmlab.dev/glossary/marketing-qualified-lead"
+ },
+ {
+  "id": "middle-of-funnel",
+  "term": "Middle of Funnel (MOFU)",
+  "definition": "Middle of funnel (MOFU) is the consideration stage, where buyers research ways to solve a problem. Learn what MOFU content and metrics look like.",
+  "url": "https://www.onegtmlab.dev/glossary/middle-of-funnel"
+ },
+ {
+  "id": "model-context-protocol",
+  "term": "Model Context Protocol (MCP)",
+  "definition": "The Model Context Protocol (MCP) is an open standard for connecting AI applications to external tools and data. Learn how MCP servers and clients work.",
+  "url": "https://www.onegtmlab.dev/glossary/model-context-protocol"
+ },
+ {
+  "id": "monthly-recurring-revenue",
+  "term": "Monthly Recurring Revenue (MRR)",
+  "definition": "Monthly recurring revenue (MRR) is the predictable subscription revenue a company earns each month. Learn how MRR is calculated and its parts.",
+  "url": "https://www.onegtmlab.dev/glossary/monthly-recurring-revenue"
+ },
+ {
+  "id": "multi-touch-attribution",
+  "term": "Multi-Touch Attribution",
+  "definition": "Multi-touch attribution splits credit for a conversion across several touchpoints. Learn the common models and the limits of multi-touch attribution.",
+  "url": "https://www.onegtmlab.dev/glossary/multi-touch-attribution"
+ },
+ {
+  "id": "mx-record",
+  "term": "MX Record",
+  "definition": "An MX record is the DNS entry that tells sending servers where to deliver email for a domain. Learn how MX records work and why they matter for cold email.",
+  "url": "https://www.onegtmlab.dev/glossary/mx-record"
+ },
+ {
+  "id": "net-revenue-retention",
+  "term": "Net Revenue Retention (NRR)",
+  "definition": "Net revenue retention (NRR) measures how much recurring revenue a company keeps and grows from existing customers. Learn the NRR formula and its meaning.",
+  "url": "https://www.onegtmlab.dev/glossary/net-revenue-retention"
+ },
+ {
+  "id": "outbound-sales",
+  "term": "Outbound Sales",
+  "definition": "Outbound sales is when the seller starts the conversation with buyers who have not reached out. Learn how outbound differs from inbound and what it uses.",
+  "url": "https://www.onegtmlab.dev/glossary/outbound-sales"
+ },
+ {
+  "id": "paid-media",
+  "term": "Paid Media",
+  "definition": "Paid media is any marketing channel where a company pays for placement, such as search, social and display ads. Learn how B2B teams use paid media.",
+  "url": "https://www.onegtmlab.dev/glossary/paid-media"
+ },
+ {
+  "id": "personal-branding",
+  "term": "Personal Branding",
+  "definition": "Personal branding is how a professional builds a reputation for specific expertise. Learn how founders and B2B leaders use it on LinkedIn.",
+  "url": "https://www.onegtmlab.dev/glossary/personal-branding"
+ },
+ {
+  "id": "pipeline-generation",
+  "term": "Pipeline Generation",
+  "definition": "Pipeline generation is creating qualified sales opportunities that can turn into revenue. Learn how B2B teams build and measure pipeline generation.",
+  "url": "https://www.onegtmlab.dev/glossary/pipeline-generation"
+ },
+ {
+  "id": "product-led-growth",
+  "term": "Product-Led Growth (PLG)",
+  "definition": "Product-led growth (PLG) is a go-to-market motion where the product itself drives signups, adoption and expansion. Learn how PLG works in B2B software.",
+  "url": "https://www.onegtmlab.dev/glossary/product-led-growth"
+ },
+ {
+  "id": "programmatic-seo",
+  "term": "Programmatic SEO",
+  "definition": "Programmatic SEO is building many search-targeted pages from a template and a dataset. Learn when it works and how to keep the pages useful.",
+  "url": "https://www.onegtmlab.dev/glossary/programmatic-seo"
+ },
+ {
+  "id": "prompt-engineering",
+  "term": "Prompt Engineering",
+  "definition": "Prompt engineering is writing and refining instructions so an AI model produces useful, reliable output. Learn the basics and how it fits with context.",
+  "url": "https://www.onegtmlab.dev/glossary/prompt-engineering"
+ },
+ {
+  "id": "reverse-ip-lookup",
+  "term": "Reverse IP Lookup",
+  "definition": "Reverse IP lookup matches an IP address to the domain or organization behind it. Learn how B2B teams use it to identify companies visiting their site.",
+  "url": "https://www.onegtmlab.dev/glossary/reverse-ip-lookup"
+ },
+ {
+  "id": "revops",
+  "term": "RevOps (Revenue Operations)",
+  "definition": "RevOps (revenue operations) runs the systems, data and processes behind marketing, sales and customer success as one function. Learn what RevOps teams own.",
+  "url": "https://www.onegtmlab.dev/glossary/revops"
+ },
+ {
+  "id": "sales-cycle",
+  "term": "Sales Cycle",
+  "definition": "A sales cycle is the series of steps and the time it takes to turn a prospect into a customer. Learn how B2B teams measure sales cycle length.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-cycle"
+ },
+ {
+  "id": "sales-development-representative",
+  "term": "Sales Development Representative (SDR)",
+  "definition": "A sales development representative (SDR) prospects and qualifies leads, then books meetings for account executives. Learn what an SDR does in B2B sales.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-development-representative"
+ },
+ {
+  "id": "sales-engagement-platform",
+  "term": "Sales Engagement Platform",
+  "definition": "A sales engagement platform runs multi-step outreach sequences across email, calls and LinkedIn and tracks the results. Learn what these tools do.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-engagement-platform"
+ },
+ {
+  "id": "sales-forecast",
+  "term": "Sales Forecast",
+  "definition": "A sales forecast is an estimate of the revenue a team expects to close in a period. Learn common forecasting methods and how forecast accuracy is judged.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-forecast"
+ },
+ {
+  "id": "sales-lead",
+  "term": "Sales Lead",
+  "definition": "A sales lead is a person or company that may become a customer. Learn how leads differ from prospects and opportunities, and the main lead stages.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-lead"
+ },
+ {
+  "id": "sales-pipeline",
+  "term": "Sales Pipeline",
+  "definition": "A sales pipeline is the set of open deals organized by stage, from first meeting to closed. Learn how pipeline stages work and how teams manage them.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-pipeline"
+ },
+ {
+  "id": "sales-playbook",
+  "term": "Sales Playbook",
+  "definition": "A sales playbook is a written guide to how a team sells: who it targets, what it says and how deals progress. Learn what a sales playbook contains.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-playbook"
+ },
+ {
+  "id": "sales-prospecting",
+  "term": "Sales Prospecting",
+  "definition": "Sales prospecting is finding and contacting potential buyers who fit your ideal customer profile. Learn the main prospecting methods in B2B sales.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-prospecting"
+ },
+ {
+  "id": "sales-qualified-lead",
+  "term": "Sales Qualified Lead (SQL)",
+  "definition": "A sales qualified lead (SQL) is a prospect sales has reviewed and accepted as a real opportunity. Learn how SQLs differ from MQLs.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-qualified-lead"
+ },
+ {
+  "id": "search-engine-optimization",
+  "term": "Search Engine Optimization (SEO)",
+  "definition": "Search engine optimization (SEO) is improving a website so it ranks in unpaid search results. Learn the main parts of SEO and how it relates to GEO.",
+  "url": "https://www.onegtmlab.dev/glossary/search-engine-optimization"
+ },
+ {
+  "id": "search-intent",
+  "term": "Search Intent",
+  "definition": "Search intent is the goal behind a search query. Learn the four common types of search intent and why matching it matters for SEO and content.",
+  "url": "https://www.onegtmlab.dev/glossary/search-intent"
+ },
+ {
+  "id": "serviceable-addressable-market",
+  "term": "Serviceable Addressable Market (SAM)",
+  "definition": "Serviceable addressable market (SAM) is the part of the total market a company can actually serve today. Learn how SAM relates to TAM and SOM.",
+  "url": "https://www.onegtmlab.dev/glossary/serviceable-addressable-market"
+ },
+ {
+  "id": "social-listening",
+  "term": "Social Listening",
+  "definition": "Social listening monitors social platforms and communities for mentions of a brand, competitor or topic. Learn how B2B teams turn it into timely outreach.",
+  "url": "https://www.onegtmlab.dev/glossary/social-listening"
+ },
+ {
+  "id": "social-selling",
+  "term": "Social Selling",
+  "definition": "Social selling is using social networks, mainly LinkedIn, to find, understand and build relationships with buyers. Learn how B2B social selling works.",
+  "url": "https://www.onegtmlab.dev/glossary/social-selling"
+ },
+ {
+  "id": "speed-to-lead",
+  "term": "Speed to Lead",
+  "definition": "Speed to lead is how quickly a company responds after a lead raises their hand. Learn why response time matters and how teams shorten it.",
+  "url": "https://www.onegtmlab.dev/glossary/speed-to-lead"
+ },
+ {
+  "id": "spf-record",
+  "term": "SPF Record",
+  "definition": "An SPF record is a DNS TXT record listing the servers allowed to send email for a domain. Learn how SPF checks work and affect cold email delivery.",
+  "url": "https://www.onegtmlab.dev/glossary/spf-record"
+ },
+ {
+  "id": "spintax",
+  "term": "Spintax",
+  "definition": "Spintax is a text format like {Hi|Hello} that lets sending tools vary a message for each recipient. Learn how spintax works in cold email.",
+  "url": "https://www.onegtmlab.dev/glossary/spintax"
+ },
+ {
+  "id": "stakeholder-mapping",
+  "term": "Stakeholder Mapping",
+  "definition": "Stakeholder mapping identifies everyone involved in a B2B purchase and their role and influence. Learn how sales teams map buying committees.",
+  "url": "https://www.onegtmlab.dev/glossary/stakeholder-mapping"
+ },
+ {
+  "id": "technographics",
+  "term": "Technographics",
+  "definition": "Technographics describe the software and technologies a company uses. Learn how B2B teams use technographic data to segment and prioritize accounts.",
+  "url": "https://www.onegtmlab.dev/glossary/technographics"
+ },
+ {
+  "id": "third-party-data",
+  "term": "Third-Party Data",
+  "definition": "Third-party data is information collected by outside providers and sold or licensed to companies. Learn how B2B teams use it and what to check.",
+  "url": "https://www.onegtmlab.dev/glossary/third-party-data"
+ },
+ {
+  "id": "top-of-funnel",
+  "term": "Top of Funnel (TOFU)",
+  "definition": "Top of funnel (TOFU) is the awareness stage, where potential buyers first learn about a problem or a company. Learn what TOFU content and metrics look like.",
+  "url": "https://www.onegtmlab.dev/glossary/top-of-funnel"
+ },
+ {
+  "id": "total-addressable-market",
+  "term": "Total Addressable Market (TAM)",
+  "definition": "Total addressable market (TAM) is the full revenue opportunity for a product. Learn how to size TAM bottom up and how it relates to SAM and SOM.",
+  "url": "https://www.onegtmlab.dev/glossary/total-addressable-market"
+ },
+ {
+  "id": "trigger-event",
+  "term": "Trigger Event",
+  "definition": "A trigger event is a change at an account, such as new funding or a new leader, that can create a reason to buy. Learn how sales teams use them.",
+  "url": "https://www.onegtmlab.dev/glossary/trigger-event"
+ },
+ {
+  "id": "utm-parameters",
+  "term": "UTM Parameters",
+  "definition": "UTM parameters are tags added to a URL that tell analytics tools which source, medium and campaign sent a visitor. Learn the five core UTM parameters.",
+  "url": "https://www.onegtmlab.dev/glossary/utm-parameters"
+ },
+ {
+  "id": "waterfall-enrichment",
+  "term": "Waterfall Enrichment",
+  "definition": "Waterfall enrichment queries several data providers in sequence until one returns a result. Learn how waterfall enrichment raises email and phone coverage.",
+  "url": "https://www.onegtmlab.dev/glossary/waterfall-enrichment"
+ },
+ {
+  "id": "web-scraping",
+  "term": "Web Scraping",
+  "definition": "Web scraping is automatically extracting data from web pages into a structured format. Learn how GTM teams use web scraping for lists and research.",
+  "url": "https://www.onegtmlab.dev/glossary/web-scraping"
+ },
+ {
+  "id": "sales-win-rate",
+  "term": "Win Rate",
+  "definition": "Win rate is the share of sales opportunities that end in a closed won deal. Learn how to calculate win rate and how win-loss analysis improves it.",
+  "url": "https://www.onegtmlab.dev/glossary/sales-win-rate"
+ },
+ {
+  "id": "workflow-automation",
+  "term": "Workflow Automation",
+  "definition": "Workflow automation is using software to run a sequence of business steps on rules and triggers. Learn how sales and marketing teams use it.",
+  "url": "https://www.onegtmlab.dev/glossary/workflow-automation"
+ }
+]
