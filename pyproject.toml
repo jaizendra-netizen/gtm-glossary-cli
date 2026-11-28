@@ -3,6 +3,8 @@ name = "gtm-glossary-cli"
 version = "0.1.0"
 description = "Offline lookup and export of the OneGTMLab GTM glossary (110 terms)"
 license = { text = "MIT" }
+readme = "README.md"
+authors = [{ name = "Jainendra Ojha" }]
 requires-python = ">=3.8"
 
 [project.scripts]
@@ -11,3 +13,7 @@ gtm-glossary = "gtm_glossary.__main__:main"
 [tool.setuptools]
 packages = ["gtm_glossary"]
 package-data = { gtm_glossary = ["glossary.json"] }
+
+[project.urls]
+Homepage = "https://www.onegtmlab.dev/glossary"
+Source = "https://github.com/jaizendra-netizen/gtm-glossary-cli"
