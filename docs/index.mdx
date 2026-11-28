@@ -1,0 +1,41 @@
+---
+title: "gtm-glossary-cli"
+description: "Offline CLI and CSV/JSON dataset of the 110-term OneGTMLab GTM glossary: define, search and export terms like ICP, lead scoring, DMARC and CAC."
+---
+
+Offline command-line lookup of the **110-term GTM glossary** published by OneGTMLab at
+[onegtmlab.dev/glossary](https://www.onegtmlab.dev/glossary): ICP, lead scoring, intent data, DMARC, SPF, MQL/SQL, ARR, CAC and more.
+Each entry carries the short definition and the link to the full glossary page. Python standard library only.
+
+```bash
+python -m gtm_glossary define "lead scoring"
+python -m gtm_glossary search email
+python -m gtm_glossary list
+python -m gtm_glossary export --format csv > glossary.csv   # also json, md
+```
+
+Example:
+
+```
+$ python -m gtm_glossary define dmarc
+DMARC
+DMARC is an email authentication policy that tells receiving servers how to handle mail failing SPF or DKIM checks. Learn how DMARC protects a domain.
+https://www.onegtmlab.dev/glossary/dmarc
+```
+
+## Data
+
+`glossary.csv` and `gtm_glossary/glossary.json` hold the same 110 entries (`id`, `term`, `definition`, `url`).
+They are a snapshot (27 Nov 2026) of the free, key-less [GTM Tool Finder API](https://gtm-tool-finder-api.jaizendra.workers.dev)
+(`GET /tools?kind=glossary`). The full, current explanation of every term is on the glossary page it links to, for example
+[what CRM means](https://www.onegtmlab.dev/glossary/crm).
+
+## Test
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+## Licence
+
+MIT. Data and glossary: [OneGTMLab](https://www.onegtmlab.dev), GTM engineering for B2B teams.

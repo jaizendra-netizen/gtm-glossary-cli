@@ -1,0 +1,10 @@
+{
+  "name": "gtm-glossary-cli",
+  "description": "Offline CLI and CSV/JSON dataset of the 110-term OneGTMLab GTM glossary: define, search and export terms like ICP, lead scoring, DMARC and CAC.",
+  "sidebar": [
+    {
+      "title": "Overview",
+      "href": "/"
+    }
+  ]
+}
